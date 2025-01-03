@@ -2,6 +2,9 @@
 - 👀 I’m interested in Design 
 - 🌱 I’m currently learning batchelor of computer applications 
 - 💞️ I’m looking to collaborate on project related to web development, designing
+- learning together
+- i am intermediate
+- 
    
 
 <!---
